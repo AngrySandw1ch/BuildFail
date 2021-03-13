@@ -26,7 +26,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
     @Test
     fun calculateCommission_caseMasterCard_remittanceFail_moreThen150k() {
@@ -41,7 +41,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -57,7 +57,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 5000.0", result)
+        assertEquals("Осуществл перевод на сумму 5000.0", result)
     }
 
     @Test
@@ -73,7 +73,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 75564.0", result)
+        assertEquals("Осуществл перевод на сумму 75564.0", result)
     }
 
    @Test
@@ -89,7 +89,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -105,7 +105,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -121,7 +121,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 5000.0", result)
+        assertEquals("Осуществл перевод на сумму 5000.0", result)
     }
 
     @Test
@@ -137,7 +137,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 75564.0", result)
+        assertEquals("Осуществл перевод на сумму 75564.0", result)
     }
 
     @Test
@@ -153,7 +153,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -169,7 +169,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 138985.0", result)
+        assertEquals("Осуществл перевод на сумму 138985.0", result)
     }
 
     @Test
@@ -185,7 +185,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -201,7 +201,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -217,7 +217,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 138985.0", result)
+        assertEquals("Осуществл перевод на сумму 138985.0", result)
     }
 
     @Test
@@ -233,7 +233,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Ошибка перевода средств", result)
+        assertEquals("Ошиб перевода средств", result)
     }
 
     @Test
@@ -249,7 +249,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Осуществлен перевод на сумму 14000.0", result)
+        assertEquals("Осуществл перевод на сумму 14000.0", result)
     }
 
 
